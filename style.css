@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+}
+h1 {
+    text-align: center;
+}
+.jumbotron {
+    background-image:url("image/background.jpg");
+}
+img {
+    width: 300px;
+}
+
+.footer {
+    background-color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.card {
+    background-color:white;
+    text-align: center;
+}
+.fab {
+    padding-left: 20px;
+    font-size: 30px;
+    
+}
+
+.fas {
+    padding-left:20px;
+    font-size: 30px;
+}
